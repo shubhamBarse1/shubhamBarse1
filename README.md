@@ -3,7 +3,7 @@
 <img align="right"alt="coding"width="400"src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1yk53FTrKYKK-qdRWBg-LZ&ust=1698869873745000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjPw86NoYIDFQAAAAAdAAAAABAE>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhambarse1&label=Profile%20views&color=0e75b6&style=flat" alt="shubhambarse1" /> </p>
 
-- 🌱 I’m currently learning **LINUX**
+- 🌱 Passinate about **CODING**
 
 - 📄 Know about my experiences [SHUBHAM BARSE resume](SHUBHAM BARSE resume)
 
