@@ -5,7 +5,11 @@
 
 - 🌱 Passinate about **CODING**
 
-- 📄 Know about my experiences [SHUBHAM BARSE resume](SHUBHAM BARSE resume)
+- 📄 Know about my experiences :
+
+- Full Stack Java Developer Trainer | Mentor | Guide | Industry Expert
+
+Passionate Full Stack Java Developer Trainer with extensive experience in Java, Spring Boot, Hibernate, REST APIs, JSP, Servlets, JDBC, and Frontend Technologies (HTML, CSS, JavaScript, Angular/React). Dedicated to mentoring aspiring developers and equipping them with industry-relevant skills.
 
 - ⚡ Fun fact **I am funny**
 
